@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Text;
 
-namespace AppCEP.Servico.Modelo
+namespace AppCEP.Servico
 {
     public class ViaCEPServico
     {
